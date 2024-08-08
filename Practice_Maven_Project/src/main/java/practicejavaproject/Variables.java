@@ -28,5 +28,6 @@ public class Variables {
 		int c=a+b;
 		System.out.println(c);
 	}
+	
 	}
 
